@@ -8,6 +8,11 @@ Questo notebook analizza i dati aggiornati da https://github.com/datasets/covid-
 <br><br>
 Lo script fa uso dei dati rilasciati in (https://github.com/datasets/covid-19).
 
+![](img_stack.png)
+![](img_stack_n.png)
+![](img_death_rate.png)
+![](img_nations.png)
+
 # Pre-requisiti
 * `python 3`
 * `jupyter`
